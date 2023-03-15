@@ -1,4 +1,4 @@
 # HackTheBoo CTF - HackTheBox
 
-### A collection of write ups from the HackTheBoo 2022 HackTheBox CTF
+Write ups from the 2022 HackTheBoo CTF organized by HackTheBox
 
