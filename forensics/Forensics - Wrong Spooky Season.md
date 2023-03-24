@@ -12,4 +12,4 @@ SFRCe2o0djRfNXByMW5nX2p1c3RfYjNjNG0zX2o0djRfc3AwMGt5ISF9Cg==
 
 And here is the flag
 
-### `HTB{j4v4_5pr1ng_just_b3c4m3_j4v4_sp00ky!!}`
+### HTB{j4v4_5pr1ng_just_b3c4m3_j4v4_sp00ky!!}
